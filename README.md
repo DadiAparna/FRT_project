@@ -8,6 +8,8 @@ The project is hosted on GitHub and can be accessed through the following links:
 
 *Azure Link:* https://nice-forest-0b367a700.3.azurestaticapps.net
 
+*Project Demo Link:* https://www.loom.com/share/4499b81708a44e09b084f7deba5c3eec
+
 
 ## Azure Technologies Used for Project
 
